@@ -62,7 +62,6 @@
                                 </span>
                             </span>
                             <span>
-                                Read the
                             </span>
                         </li>
                         <li class="flex items-center gap-4 py-2 relative before:border-l before:border-[#e3e3e0] dark:before:border-[#3E3E3A] before:bottom-1/2 before:top-0 before:left-[0.4rem] before:absolute">
@@ -72,7 +71,6 @@
                                 </span>
                             </span>
                             <span>
-                                Watch video tutorials at
                             </span>
                         </li>
                     </ul>
